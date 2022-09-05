@@ -1,0 +1,13 @@
+#nav-area form a i {
+    font-size: 30px;
+    color: grey;
+    margin-right: 20px
+}
+
+#nav-area form a sup{
+    font-size: 15px;
+}
+
+.card{
+    border-radius: 10px;
+}
